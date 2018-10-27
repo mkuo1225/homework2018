@@ -6,7 +6,7 @@
 }
 
 #first {
-    background-image: url("assets/brownies.jpg");
+    background-image: url("brownies.jpg");
     min-height: 1200px;
     background-attachment: fixed;
     background-position: center;
