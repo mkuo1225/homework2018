@@ -6,7 +6,7 @@
 }
 
 #first {
-    background-image: url("/assets/brownies.jpg");
+    background-image: url("assets/brownies.jpg");
     min-height: 1200px;
     background-attachment: fixed;
     background-position: center;
@@ -15,7 +15,7 @@
 }
 
 #second {
-    background-image: url("/assets/choppingboard.jpg");
+    background-image: url("assets/choppingboard.jpg");
     min-height: 850px;
     background-attachment: fixed;
     background-position: center;
@@ -24,7 +24,7 @@
 }
 
 #third {
-    background-image: url("/assets/1.png");
+    background-image: url("assets/1.png");
     min-height: 800px;
     background-attachment: fixed;
     background-position: center;
@@ -33,7 +33,7 @@
 }
 
 #forth {
-    background-image: url("/assets/2.png");
+    background-image: url("assets/2.png");
     min-height: 800px;
     background-attachment: fixed;
     background-position: center;
@@ -42,7 +42,7 @@
 }
 
 #fifth {
-    background-image: url("/assets/3.png");
+    background-image: url("assets/3.png");
     min-height: 800px;
     background-attachment: fixed;
     background-position: center;
@@ -50,7 +50,7 @@
     background-size: cover;
 }
 #sixth {
-    background-image: url("/assets/choppingboard.jpg");
+    background-image: url("assets/choppingboard.jpg");
     min-height: 800px;
     background-attachment: fixed;
     background-position: center;
